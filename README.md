@@ -2,11 +2,6 @@
 
 This repository is created for Git practical lab.
 
+## Git Practice
 
-
-\## Feature Branch
-
-
-
-This change was made in the feature branch.
-
+This project demonstrates Git basics, branches, merging, merge conflicts, and pull requests.
