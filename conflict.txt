@@ -1,1 +1,2 @@
-git is hard
+git is easy if practice is done regularly
+
